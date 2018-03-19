@@ -1,2 +1,2 @@
 # GLXToken(GLXT)
-GLXToken.sol have a smartcontract which is deployed on ethereum blockchain.
+GLXToken.sol is an ERC20 compliant smart contract which is deployed on Ethereum blockchain.
